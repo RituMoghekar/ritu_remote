@@ -23,7 +23,8 @@ main{
     height: 690px;
 }
 header{
-    width: 260px;background-color: rgb(69, 160, 160);
+    width: 280px;
+    background-color: rgb(69, 160, 160);
     padding: 20px 20px;
     border-radius: 15px;
     box-shadow: 10px 10px 10px;
